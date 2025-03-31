@@ -1,0 +1,60 @@
+Model,Engine_Size,Weight,Fuel_Efficiency
+Tesla Model S,3.0,2100,102
+BMW 3 Series,2.0,1500,28
+Audi A4,2.0,1600,24
+Toyota Corolla,1.8,1300,32
+Ford Mustang,5.0,1800,15
+Chevrolet Camaro,6.2,1700,16
+Honda Civic,2.0,1400,30
+Mercedes-Benz C-Class,2.5,1600,22
+BMW X5,3.0,2200,20
+Porsche 911,3.8,1500,20
+Lexus RX,3.5,2100,19
+Jaguar XF,2.0,1700,24
+Volkswagen Golf,1.8,1400,28
+Land Rover Range Rover,5.0,2500,18
+Ford F-150,5.0,2500,22
+Subaru Outback,2.5,1700,26
+Mitsubishi Outlander,2.4,1800,25
+Tesla Model 3,2.0,1600,141
+BMW Z4,3.0,1450,24
+Audi Q5,2.0,1900,23
+Honda CR-V,2.4,1700,28
+Mazda CX-5,2.5,1600,26
+Kia Sorento,3.3,2100,22
+Toyota RAV4,2.5,1700,30
+Hyundai Santa Fe,2.4,1800,25
+Chevrolet Traverse,3.6,2200,18
+Chrysler Pacifica,3.6,2200,22
+Nissan Altima,2.5,1500,28
+Ford Explorer,3.5,2200,20
+Jeep Grand Cherokee,3.6,2300,19
+Ram 1500,5.7,2500,18
+Mercedes-Benz GLC,2.0,1900,22
+BMW X3,2.0,1850,25
+Audi Q7,3.0,2300,20
+Land Rover Discovery,3.0,2400,21
+Chevrolet Tahoe,5.3,2500,16
+GMC Sierra 1500,5.3,2400,18
+Toyota Highlander,3.5,2100,23
+Ford Escape,1.5,1500,27
+Volkswagen Tiguan,2.0,1700,24
+Ford Bronco,2.7,2000,19
+Jeep Wrangler,3.6,2000,20
+Toyota Tacoma,3.5,1900,21
+Honda Pilot,3.5,2100,22
+Chevrolet Equinox,2.4,1700,26
+Hyundai Tucson,2.4,1700,25
+Kia Sportage,2.4,1600,27
+BMW M5,4.4,1800,18
+Audi RS7,4.0,1900,16
+Mercedes-AMG E63,4.0,1900,15
+Porsche Panamera,4.0,2100,20
+Lexus LS 500,3.5,2000,19
+Jaguar F-Type,5.0,1600,18
+Bentley Continental GT,6.0,2300,12
+Maserati Ghibli,3.0,1900,16
+Aston Martin DB11,5.2,2000,14
+Rolls-Royce Ghost,6.6,2500,12
+Ferrari 488 GTB,3.9,1500,15
+Lamborghini Aventador,6.5,1700,13
